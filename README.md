@@ -22,3 +22,6 @@ from Reddit:
 
     Flash Dongle with Firmware
 
+
+website to flash:
+[click here](https://nickcoutsos.github.io/keymap-editor/)
